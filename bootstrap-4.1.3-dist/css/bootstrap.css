@@ -3933,8 +3933,8 @@ input[type="button"].btn-block {
 
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: gray;
+  color: #28B4EF;
+  background-color: #525252;
 }
 
 .nav-fill .nav-item {
@@ -4881,7 +4881,6 @@ input[type="button"].btn-block {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
   background-color: #e9ecef;
-  border-radius: 0.3rem;
 }
 
 @media (min-width: 576px) {

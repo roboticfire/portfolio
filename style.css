@@ -1,4 +1,4 @@
-.main-page{
+.main-page {
      background-image: url("Images/background.jpg");
      background-size: cover;
      background-attachment: fixed;
@@ -6,7 +6,7 @@
      z-index: -1;
 }
 
-.secondary-page{
+.secondary-page {
      background-image: url("Images/desert.jpg");
      background-size: cover;
      background-attachment: fixed;
@@ -19,36 +19,43 @@
      background-color: #424242;
 }
 
-.background-scroll-image{
-     background-color: white;
-     padding-top: 5%;
-     padding-bottom: 10%;
+.nav-item {
+     color: #3399ff;
 }
 
-.jumbo-main{
+.background-scroll-image {
+     background-color: white;
+     padding-top: 5%;
+     padding-bottom: 5%;
+}
+
+.jumbo-main {
   padding: 20rem 1rem;
   margin-bottom: 2rem;
   border-radius: 0.3rem;
   margin-top: 2%
 }
 
-.jumbo-secondary{
+.jumbo-secondary {
   padding: 13rem 1rem;
   margin-bottom: 2rem;
   border-radius: 0.3rem;
   margin-top: 2%
 }
 
-.jumbofooter{
+.jumbofooter {
      margin-bottom:0;
 }
 
-#transparentjumbo{
+#transparentjumbo {
      background-color: inherit;
 }
 
-
-.footerimg:hover{
+.footerimg:hover {
      opacity:0.5;
 }
 
+.rounded-corner {
+     border-radius: 10%;
+     overflow:hidden;
+}
