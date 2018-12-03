@@ -4,7 +4,6 @@
      background-size: cover;
      background-attachment: fixed;
      background-position: center;
-     z-index: -1;
 }
 
 /*About Me, Resume, and Projects Body Image*/
@@ -13,7 +12,6 @@
      background-size: cover;
      background-attachment: fixed;
      background-position: center;
-     z-index: -1;
 }
 
 /*Changes color of Box when mouse is over the pill*/
@@ -79,5 +77,4 @@
      background-size: cover;
      background-attachment: fixed;
      background-position: center;
-     z-index: -1
 }
