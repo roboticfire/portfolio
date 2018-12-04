@@ -1,3 +1,12 @@
+/*Font Family*/
+body{
+     font-family: 'Zilla Slab', serif;
+}
+
+h1{
+     font-family: 'Kaushan Script', cursive;
+}
+
 /*Home Body Image*/
 .main-page {
      background-image: url("Images/background.jpg");
@@ -35,10 +44,10 @@
 
 /*Margins for Title in Header Jumbotron (Home)*/
 .jumbo-main {
-  padding: 20rem 1rem;
-  margin-bottom: 2rem;
+  padding: 45vh 1rem;
+  margin-top: 2%;
+  margin-bottom: 5%;
   border-radius: 0.3rem;
-  margin-top: 2%
 }
 
 /*Margins for Title in Header Jumbotron (About Me, Resume, Projects) */
