@@ -9,7 +9,7 @@ h1{
 
 /*Home Body Image*/
 .main-page {
-     background-image: url("Images/background.jpg");
+     background-image: url("Images/lake.jpg");
      background-size: cover;
      background-attachment: fixed;
      background-position: center;
@@ -61,6 +61,7 @@ h1{
 /*Footer Margins*/
 .jumbofooter {
      margin-bottom:0;
+     background-color: #1d2124;
 }
 
 /*ID for a transparent jumbotron*/
